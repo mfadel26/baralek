@@ -5,11 +5,13 @@ module.exports = {
     extend: {
       fontFamily:{
         sans: ['Inter']
-      }
+      },
     },
   },
   variants: {
-    extend: {},
+    extend: {
+      backgroundSize: ['hover', 'focus'],
+    },
   },
   plugins: [],
 }

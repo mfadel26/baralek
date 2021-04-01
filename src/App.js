@@ -1,12 +1,11 @@
 import React from 'react'
 import './styles.css'
-import Image from './Assets/Image/hero.jpeg';
+import Image from './Assets/Image/header.jpg';
 
 function App() {
   return (
     <div className='App bg-gray-100 min-h-screen font-sans'>
       <div className='bg-white flex justify-around py-4'>
-        <span>home</span>
         <span>home</span>
         <span>home</span>
         <span className="relative">
@@ -30,13 +29,16 @@ function App() {
         </span>
         <span>home</span>
         <span>home</span>
-        <span>home</span>
       </div>
       <div 
-      className="h-screen bg-cover"
+      className="h-screen border-8 bg-contain sm:bg-center"
       style={{backgroundImage:`url(${Image})`}}>
-
-
+        <div>
+          <p>1</p>
+          <p>2</p>
+          <p>3</p>
+          <p>4</p>
+        </div>
       </div>
     </div>
   )

@@ -7818,6 +7818,10 @@ video {
   background-repeat: space;
 }
 
+.bg-16 {
+  background-size: 4rem;
+}
+
 .bg-auto {
   background-size: auto;
 }
@@ -7828,6 +7832,10 @@ video {
 
 .bg-contain {
   background-size: contain;
+}
+
+.bg-50\% {
+  background-size: 50%;
 }
 
 .border-collapse {
@@ -36381,6 +36389,10 @@ video {
     background-repeat: space;
   }
 
+  .sm\:bg-16 {
+    background-size: 4rem;
+  }
+
   .sm\:bg-auto {
     background-size: auto;
   }
@@ -36391,6 +36403,10 @@ video {
 
   .sm\:bg-contain {
     background-size: contain;
+  }
+
+  .sm\:bg-50\% {
+    background-size: 50%;
   }
 
   .sm\:border-collapse {
@@ -64901,6 +64917,10 @@ video {
     background-repeat: space;
   }
 
+  .md\:bg-16 {
+    background-size: 4rem;
+  }
+
   .md\:bg-auto {
     background-size: auto;
   }
@@ -64911,6 +64931,10 @@ video {
 
   .md\:bg-contain {
     background-size: contain;
+  }
+
+  .md\:bg-50\% {
+    background-size: 50%;
   }
 
   .md\:border-collapse {
@@ -93421,6 +93445,10 @@ video {
     background-repeat: space;
   }
 
+  .lg\:bg-16 {
+    background-size: 4rem;
+  }
+
   .lg\:bg-auto {
     background-size: auto;
   }
@@ -93431,6 +93459,10 @@ video {
 
   .lg\:bg-contain {
     background-size: contain;
+  }
+
+  .lg\:bg-50\% {
+    background-size: 50%;
   }
 
   .lg\:border-collapse {
@@ -121941,6 +121973,10 @@ video {
     background-repeat: space;
   }
 
+  .xl\:bg-16 {
+    background-size: 4rem;
+  }
+
   .xl\:bg-auto {
     background-size: auto;
   }
@@ -121951,6 +121987,10 @@ video {
 
   .xl\:bg-contain {
     background-size: contain;
+  }
+
+  .xl\:bg-50\% {
+    background-size: 50%;
   }
 
   .xl\:border-collapse {
@@ -150461,6 +150501,10 @@ video {
     background-repeat: space;
   }
 
+  .\32xl\:bg-16 {
+    background-size: 4rem;
+  }
+
   .\32xl\:bg-auto {
     background-size: auto;
   }
@@ -150471,6 +150515,10 @@ video {
 
   .\32xl\:bg-contain {
     background-size: contain;
+  }
+
+  .\32xl\:bg-50\% {
+    background-size: 50%;
   }
 
   .\32xl\:border-collapse {
