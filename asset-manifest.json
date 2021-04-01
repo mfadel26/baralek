@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/baralek/static/css/main.9b3fe0e0.chunk.css",
-    "main.js": "/baralek/static/js/main.5eb59984.chunk.js",
-    "main.js.map": "/baralek/static/js/main.5eb59984.chunk.js.map",
+    "main.css": "/baralek/static/css/main.4e75c251.chunk.css",
+    "main.js": "/baralek/static/js/main.0ad9d2e0.chunk.js",
+    "main.js.map": "/baralek/static/js/main.0ad9d2e0.chunk.js.map",
     "runtime-main.js": "/baralek/static/js/runtime-main.1da45520.js",
     "runtime-main.js.map": "/baralek/static/js/runtime-main.1da45520.js.map",
     "static/js/2.9b24b467.chunk.js": "/baralek/static/js/2.9b24b467.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.c1d8de39.chunk.js": "/baralek/static/js/3.c1d8de39.chunk.js",
     "static/js/3.c1d8de39.chunk.js.map": "/baralek/static/js/3.c1d8de39.chunk.js.map",
     "index.html": "/baralek/index.html",
-    "static/css/main.9b3fe0e0.chunk.css.map": "/baralek/static/css/main.9b3fe0e0.chunk.css.map",
+    "static/css/main.4e75c251.chunk.css.map": "/baralek/static/css/main.4e75c251.chunk.css.map",
     "static/js/2.9b24b467.chunk.js.LICENSE.txt": "/baralek/static/js/2.9b24b467.chunk.js.LICENSE.txt",
-    "static/media/hero.6146f0b5.jpeg": "/baralek/static/media/hero.6146f0b5.jpeg"
+    "static/media/header.af45bf53.jpg": "/baralek/static/media/header.af45bf53.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1da45520.js",
     "static/js/2.9b24b467.chunk.js",
-    "static/css/main.9b3fe0e0.chunk.css",
-    "static/js/main.5eb59984.chunk.js"
+    "static/css/main.4e75c251.chunk.css",
+    "static/js/main.0ad9d2e0.chunk.js"
   ]
 }
