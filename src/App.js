@@ -9,7 +9,7 @@ function App() {
         <span>home</span>
         <span>home</span>
         <span className="relative">
-          <div className="absolute bg-white rounded-full p-3 -ml-5 -mt-2">
+          <div className="absolute bg-white rounded-full p-3 -ml-8 -mt-2">
           <svg
             id='Capa_1'
             className='w-12 h-12'
@@ -31,13 +31,18 @@ function App() {
         <span>home</span>
       </div>
       <div 
-      className="h-screen border-8 bg-contain sm:bg-center"
+      className="h-screen border-8 bg-contain sm:bg-center flex flex-col items-center justify-center"
       style={{backgroundImage:`url(${Image})`}}>
+        <div className="text-white text-5xl text-center mb-10">
+          <p className="font-light italic">1loremm</p>
+          <p className="font-light">2lorem</p>
+          <p className="font-bold">3lorem</p>
+          <p className="font-light">4lorem</p>
+        </div>
         <div>
-          <p>1</p>
-          <p>2</p>
-          <p>3</p>
-          <p>4</p>
+          <button className="bg-white px-8 py-3 rounded-lg">
+            reminder
+          </button>
         </div>
       </div>
     </div>
