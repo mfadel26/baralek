@@ -34,10 +34,10 @@ function App() {
       className="h-screen border-8 bg-contain sm:bg-center flex flex-col items-center justify-center"
       style={{backgroundImage:`url(${Image})`}}>
         <div className="text-white text-5xl text-center mb-10">
-          <p className="font-light italic">1loremm</p>
-          <p className="font-light">2lorem</p>
-          <p className="font-bold">3lorem</p>
-          <p className="font-light">4lorem</p>
+          <p className="font-light italic">1.loremm</p>
+          <p className="font-light">2.lorem</p>
+          <p className="font-bold">3.lorem</p>
+          <p className="font-light">4.lorem</p>
         </div>
         <div>
           <button className="bg-white px-8 py-3 rounded-lg">
